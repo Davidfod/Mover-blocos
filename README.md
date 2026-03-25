@@ -1,2 +1,0 @@
-# Mover-blocos
-by cyber
